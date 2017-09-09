@@ -1,3 +1,6 @@
 # Java project files
 target
 out
+
+# IDE files
+.idea
